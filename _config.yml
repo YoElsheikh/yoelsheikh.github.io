@@ -144,17 +144,17 @@ content:
               Generation and labeling of point cloud data from an Intel RealSense RGB-D stereo camera.
               Use of machine learning frameworks such as Pytorch to train models for inference.
       - layout: right
-        title: Würth Industrie Service Gmbh & Co. KG
-        sub_title: Intern
-        caption: Mar 2022 - Sep 2022
-        link: wuerth-industrie.com
+        title: Technische Universität Kaiserslautern 
+        sub_title: Student Assistant 
+        caption: Aug 2021 - Mar 2022
+        link: uni-kl.de
         quote: >
         description: | # this will include new lines to allow paragraphs
-              Literature research, development and application of 3D computer vision state-of-the-art 
-              techniques (PointNet/++, VoteNet, MobileNetSSD etc.) for object position determination and 
-              Object recognition for a robotic manipulator/gripper.
-              Generation and labeling of point cloud data from an Intel RealSense RGB-D stereo camera.
-              Use of machine learning frameworks such as Pytorch to train models for inference.    
+            *RRLab (Robotics Research Lab)*: Literature search, dataset generation (video/images), underwater object recognition, mosaicking, and mapping of the underwater environment (scene understanding) using
+              Using FLS sonar data and deployment of image processing algorithms. Algorithm compilation
+              within Finroc (a C++ based OOP framework from RRLab running Linux) accompanied by outdoor testing.   
+             *Department of Mechanical and Process Engineering*: use of road features (from GPR sensor data) using GANs and CGANs to create subsurface
+              Road cracks according to type.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
