@@ -56,6 +56,17 @@ content:
           Focus: Autonomous Mobile Robots, Embedded Intelligence, C++ Programming Project, Robot and Motion Control, Robust Control, Design of Human-Machine Systems, Seminar Electromobility
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+  title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Technische Universität Kaiserslautern
+        sub_title: Master of Science in Vehicle Engineering 
+        caption: 2019 - up to now
+        quote: >
+          Focus: Autonomous Mobile Robots, Embedded Intelligence, C++ Programming Project, Robot and Motion Control, Robust Control, Design of Human-Machine Systems, Seminar Electromobility
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
