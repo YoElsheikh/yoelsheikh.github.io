@@ -57,11 +57,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-right
-        title: Technische Universität Kaiserslautern
-        sub_title: Master of Science in Vehicle Engineering 
-        caption: 2019 - up to now
+        title: University of Khartoum 
+        sub_title: Bachelor of Science in Mechanical Engineering 
+        caption: 2016
         quote: >
-          Focus: Autonomous Mobile Robots, Embedded Intelligence, C++ Programming Project, Robot and Motion Control, Robust Control, Design of Human-Machine Systems, Seminar Electromobility
+          Thesis: Comarative Study between Conventional Controllers for the Inverted Pendulum Automobil 
         description: | # this will include new lines to allow paragraphs
           Description of qualification        
   - title: A Little More About Me
