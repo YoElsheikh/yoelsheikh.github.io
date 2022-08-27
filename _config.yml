@@ -150,10 +150,10 @@ content:
         link: uni-kl.de
         quote: >
         description: | # this will include new lines to allow paragraphs
-            *RRLab (Robotics Research Lab)*: Literature search, dataset generation (video/images), underwater object recognition, mosaicking, and mapping of the underwater environment (scene understanding) using
+            **RRLab (Robotics Research Lab)**: Literature search, dataset generation (video/images), underwater object recognition, mosaicking, and mapping of the underwater environment (scene understanding) using
               Using FLS sonar data and deployment of image processing algorithms. Algorithm compilation
               within Finroc (a C++ based OOP framework from RRLab running Linux) accompanied by outdoor testing.   
-             *Department of Mechanical and Process Engineering*: use of road features (from GPR sensor data) using GANs and CGANs to create subsurface
+             **Department of Mechanical and Process Engineering**: use of road features (from GPR sensor data) using GANs and CGANs to create subsurface
               Road cracks according to type.
   - title: A Little More About Me
     layout: text
