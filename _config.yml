@@ -70,10 +70,10 @@ content:
         quote: >
           Pytorch | Tensorflow | Intel RealSense | Transfer Learning | Signal Processing | ROS | Docker | Linux
         description: | # this will include new lines to allow paragraphs
-          Proof of Concept and Know-How using Stereovision generated and Deep Learning data to position and classify objects for a logistig-arm manipulator 
+          Proof of Concept and Know-How using Stereovision generated and Deep Learning data to position and classify objects 
+          for a logistig-arm manipulator.
           Accomplishments: Applied and modified 2 state-of-the-art 3D CV class algorithms, one that consumes pointclouds directly 
           as well as techniques that are based on 2D CV and leverages pointclouds to estimate the position.
-          - title: Projects # Title for the section
     # layout: list # Type of content section (list/text)
     # content:
       - layout: left
