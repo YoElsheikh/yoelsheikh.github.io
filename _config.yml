@@ -55,15 +55,14 @@ content:
         quote: >
           Focus: Autonomous Mobile Robots, Embedded Intelligence, C++ Programming Project, Robot and Motion Control, Robust Control, Design of Human-Machine Systems, Seminar Electromobility
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Description of qualification: The MSc is a collaboration between the departments of Mechanical, Electrical and Computer Science, allowing for an interdisciplinary and/or area-specific elective modules
       - layout: top-right
         title: University of Khartoum 
         sub_title: Bachelor of Science in Mechanical Engineering 
         caption: 2016
         quote: >
           Thesis: Comarative Study between Conventional Controllers for the Inverted Pendulum Automobil 
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification        
+        description: | # this will include new lines to allow paragraphs        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
