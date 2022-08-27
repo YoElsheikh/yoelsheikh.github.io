@@ -108,23 +108,7 @@ content:
           Detailed mathematical modelling of the IPS (Inverted Pendulum System) and leveraging the Genetic Algorithm to determine the components that
           minimize the cost function of the LQR to stabalize the non-linear IPS.
           Accomplishments: Successfully applied the controller and carried out a comparison against fine-tuned LQR considering the performance and energy
-          consumption.          
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*        
+          consumption.                  
   - title: Experience
     layout: list
     content:
