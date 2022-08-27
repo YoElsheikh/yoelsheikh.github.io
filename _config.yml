@@ -75,7 +75,7 @@ content:
           as well as techniques that are based on 2D CV and leverages pointclouds to estimate the position.
           - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    # content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
