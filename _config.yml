@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Yousif M. Elsheikh 
-title: Kaisersautern, Germany.
+title: Kaisersautern, Germany
 email: memohamm@rhrk.uni-kl.de
 # email_title: Email (Email title override)
 phone: +49-152-17278662
@@ -90,7 +90,7 @@ content:
           Accomplishments: Successfully applied the controller, which is the first of its kind in the chair for Electromobility at TU Kaiserslautern
           securing a 1,0.
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border:   # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Genetic-Algorithm-based Optimal Control of the Inverted Pendulum System 
         # link: https://github.com/YoElsheikh/realsense-python-ergeb
