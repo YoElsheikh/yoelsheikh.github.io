@@ -57,7 +57,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Proof-of-Concept of a 3D Computer Vision Pipeline Applied to a Logistics Robot Manipulator 
+        title: PoC of a 3D Computer Vision Pipeline Applied to a Logistics Robot Manipulator 
         link: https://github.com/YoElsheikh/realsense-python-ergeb
         link_text: Link to highlights
         additional_links:
@@ -68,9 +68,9 @@ content:
            # icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          leverage pointclouds, images and deep learning to position, detect and classify objects
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Accomplishments: Applied and modified state-of-the-art 3D CV algorithms that consumes pointclouds directly 
   - title: Experience
     layout: list
     content:
