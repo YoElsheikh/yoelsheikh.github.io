@@ -16,7 +16,7 @@ website: https://yoelsheikh.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 github_username:  yoelsheikh
