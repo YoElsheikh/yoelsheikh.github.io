@@ -42,7 +42,7 @@ xing_username: yoelsheikh
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/pp.jpg
 about_content: | # this will include new lines to allow paragraphs
-       MSc Student interested in 3D Computer Vision, Deep Learning Learning-based Control and Robotics. 
+       MSc Student interested in 3D Computer Vision, Deep Learning, Learning-based Control and Robotics. 
 
 content:
   - title: Education
@@ -150,8 +150,8 @@ content:
         link: uni-kl.de
         quote: >
         description: | # this will include new lines to allow paragraphs
-            **RRLab (Robotics Research Lab)**: Literature search, dataset generation (video/images), underwater object recognition, mosaicking, and mapping of the underwater environment (scene understanding) using
-              Using FLS sonar data and deployment of image processing algorithms. Algorithm compilation
+            **RRLab (Robotics Research Lab)**: Literature search, dataset generation (video/images), underwater object recognition, mosaicing, and mapping of the underwater environment (scene understanding) using
+              FLS sonar data and deployment of image processing algorithms. Algorithm compilation
               within Finroc (a C++ based OOP framework from RRLab running Linux) accompanied by outdoor testing.   
              **Department of Mechanical and Process Engineering**: use of road features (from GPR sensor data) using GANs and CGANs to create subsurface
               Road cracks according to type.
@@ -164,11 +164,27 @@ content:
         description: | # this will include new lines to allow paragraphs
             Perform conceptual design of components and implement design improvements using 3D Modeling tools to reduce cost and improve functionality.
             Conduct market research and design standardization.
+      - layout: right
+        title: University of Khartoum, Khartoum SD 
+        sub_title: Teaching Assistant 
+        caption: Dec 2016 - Dec 2017
+        link: eng.uofk.edu/en/
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            Teach and reinforce the events conducted by the professor as well as.
+              Preparing, conducting and grading tutorials / tests in the subjects:
+              "Fluid Mechanics I", "Computer Applications", "Measurement and Instrumentation", "Gas Dynamics"
+              and "Hydraulics & Pneumatic Power Transmission ". Coordination and supervision of tests together 
+              with other managerial tasks in the mechanical engineering department    
+     
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+     **Skills** Linux/Bash • WSL/2 • Docker • C, C++ • Python • Anaconda (Pytorch, Tensorflow, Keras, Open3D, Pandas,
+       Numpy etc) • ROS/2 • OpenCV • CAD, einschließlich SolidWorks, MATLAB + Simulink • MS office, MS Visual Studio/VS Code and Latex.
+     **Languages**:
+     I Speak Arabic, English and German fluently. *Related language examinations*: DSH 2; from LMU München & TU Kaiserslautern, IELTS band 7.5
+      **Interests**: I enjoy reading about astrophysics and philosophy and try to do cardio and some weightlifting regularely, which is highly likely unwarranted.
           
 # Footer
 footer_show_references: true
