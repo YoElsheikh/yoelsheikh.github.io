@@ -108,20 +108,7 @@ content:
           Detailed mathematical modelling of the IPS (Inverted Pendulum System) and leveraging the Genetic Algorithm to determine the components that
           minimize the cost function of the LQR to stabalize the non-linear IPS.
           Accomplishments: Successfully applied the controller and carried out a comparison against fine-tuned LQR considering the performance and energy
-          consumption.
-          
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+          consumption.          
   - title: Education
     layout: list
     content:
@@ -137,7 +124,19 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*        
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
