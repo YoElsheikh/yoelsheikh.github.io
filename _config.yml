@@ -132,7 +132,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Würth Industrie Service Gmbh & Co. KG
+        title: Würth Industrie Service Gmbh & Co. KG, Bad Mergentheim DE
         sub_title: Intern
         caption: Mar 2022 - Sep 2022
         link: wuerth-industrie.com
@@ -144,7 +144,7 @@ content:
               Generation and labeling of point cloud data from an Intel RealSense RGB-D stereo camera.
               Use of machine learning frameworks such as Pytorch to train models for inference.
       - layout: right
-        title: Technische Universität Kaiserslautern 
+        title: Technische Universität Kaiserslautern, Kaiserslautern DE
         sub_title: Student Assistant 
         caption: Aug 2021 - Mar 2022
         link: uni-kl.de
@@ -155,6 +155,15 @@ content:
               within Finroc (a C++ based OOP framework from RRLab running Linux) accompanied by outdoor testing.   
              **Department of Mechanical and Process Engineering**: use of road features (from GPR sensor data) using GANs and CGANs to create subsurface
               Road cracks according to type.
+      - layout: right
+        title: Hi-Force Engineering Works, Khartoum SD 
+        sub_title: Design Engineer 
+        caption: Aug 2018 - Feb 2019
+        link: hiforce.sudatum.com
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            Perform conceptual design of components and implement design improvements using 3D Modeling tools to reduce cost and improve functionality.
+            Conduct market research and design standardization.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
