@@ -68,9 +68,10 @@ content:
            # icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          leverage pointclouds, images and deep learning to position, detect and classify objects
+          Pytorch | Tensorflow | Intel RealSense | Transfer Learning | Signal Processing | ROS | Docker | Linux
         description: | # this will include new lines to allow paragraphs
-          Accomplishments: Applied and modified state-of-the-art 3D CV algorithms that consumes pointclouds directly 
+          Accomplishments: Applied and modified 2 state-of-the-art 3D CV class algorithms, one that consumes pointclouds directly 
+          as well as techniques that are based on 2D CV and leverages pointclouds to estimate the position.
   - title: Experience
     layout: list
     content:
