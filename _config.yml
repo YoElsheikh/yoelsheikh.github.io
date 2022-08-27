@@ -56,8 +56,6 @@ content:
           Focus: Autonomous Mobile Robots, Embedded Intelligence, C++ Programming Project, Robot and Motion Control, Robust Control, Design of Human-Machine Systems, Seminar Electromobility
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: Education
-    layout: list
     content:
       - layout: top-right
         title: Technische Universität Kaiserslautern
