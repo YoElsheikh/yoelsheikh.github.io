@@ -140,7 +140,7 @@ content:
         description: | # this will include new lines to allow paragraphs
               Literature research, development and application of 3D computer vision state-of-the-art 
               techniques (PointNet/++, VoteNet, MobileNetSSD etc.) for object position determination and 
-              Object recognition for a robotic manipulator/gripper.
+              object recognition for a robotic manipulator/gripper.
               Generation and labeling of point cloud data from an Intel RealSense RGB-D stereo camera.
               Use of machine learning frameworks such as Pytorch to train models for inference.
       - layout: right
@@ -150,7 +150,7 @@ content:
         link: uni-kl.de
         quote: >
         description: | # this will include new lines to allow paragraphs
-            **RRLab (Robotics Research Lab)**: Literature search, dataset generation (video/images), underwater object recognition, mosaicing, and mapping of the underwater environment (scene understanding) using
+            **RRLab (Robotics Research Lab)**: Literature research, dataset generation (video/images), underwater object recognition, mosaicing, and mapping of the underwater environment (scene understanding) using
               FLS sonar data and deployment of image processing algorithms. Algorithm compilation
               within Finroc (a C++ based OOP framework from RRLab running Linux) accompanied by outdoor testing.   
              **Department of Mechanical and Process Engineering**: use of road features (from GPR sensor data) using GANs and CGANs to create subsurface
