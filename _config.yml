@@ -84,8 +84,8 @@ content:
           Pytorch | Tensorflow | Intel RealSense | Transfer Learning | Signal Processing | ROS | Docker | Linux
         description: | # this will include new lines to allow paragraphs
           Proof of Concept and Know-How using Stereo-vision generated data and Deep Learning to position and classify objects 
-          for a logistig-arm manipulator.
-          Accomplishments: Applied and modified 2 state-of-the-art 3D CV class algorithms, one that consumes pointclouds directly 
+          for a logistik-arm manipulator.
+          *Accomplishments*: Applied and modified 2 state-of-the-art 3D CV class algorithms, one that consumes pointclouds directly 
           as well as techniques that are based on 2D CV and leverages pointclouds to estimate the position.
     # layout: list # Type of content section (list/text)
     # content:
@@ -106,7 +106,7 @@ content:
           MATLAB | Control Theory | Optimal Control | Optimization | Modelling 
         description: | # this will include new lines to allow paragraphs
           Application of the iterative linear quadratic regulator for path planning for a simple model of a mobile robot
-          Accomplishments: Successfully applied the controller, which is the first of its kind in the chair for Electromobility at TU Kaiserslautern
+          *Accomplishments*: Successfully applied the controller, which is the first of its kind in the chair for Electromobility at TU Kaiserslautern
           securing a 1,0.
       - layout: left
         border:   # Value of `weak` will display a weak border below this item. # Any 
@@ -126,7 +126,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Detailed mathematical modelling of the IPS (Inverted Pendulum System) and leveraging the Genetic Algorithm to determine the components that
           minimize the cost function of the LQR to stabalize the non-linear IPS.
-          Accomplishments: Successfully applied the controller and carried out a comparison against fine-tuned LQR considering the performance and energy
+          *Accomplishments*: Successfully applied the controller and carried out a comparison against fine-tuned LQR considering the performance and energy
           consumption.                  
   - title: Experience
     layout: list
