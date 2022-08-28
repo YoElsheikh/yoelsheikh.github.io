@@ -103,7 +103,7 @@ content:
            # icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          MATLAB | Control Theory | Optimal Control | Optimization | Modelling 
+          MATLAB | Control Theory | Optimal Control | Optimization | Modelling | Git
         description: | # this will include new lines to allow paragraphs
           Application of the iterative linear quadratic regulator for path planning for a simple model of a mobile robot
           *Accomplishments*: Successfully applied the controller, which is the first of its kind in the chair for Electromobility at TU Kaiserslautern
