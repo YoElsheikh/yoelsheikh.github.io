@@ -132,7 +132,7 @@ content:
   - title: Experience
     layout: list
     content:
-       - layout: right
+      - layout: right
         title: Adam Riese GmbH, Stuttgart DE
         sub_title: Working Student
         caption: Nov 2022 - Sep 2023
