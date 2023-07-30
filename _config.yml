@@ -42,8 +42,8 @@ xing_username: yoelsheikh
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/pp.jpg
 about_content: | # this will include new lines to allow paragraphs
-       MSc Thesis: Reinforcement Learning on Sensor Data & Grid Maps @ the AG Robotersysteme, RPTU, lead by Prof. Karsten Berns. Interested in 3D Computer Vision,
-       Control Theory, Dynamical Systems, Learning-based Control and Robotics. 
+       MSc Thesis: Reinforcement Learning on Sensor Data & Grid Maps @ the AG Robotersysteme, RPTU, lead by Prof. Karsten Berns. Interested in 3D Computer Vision/Deep Learning,
+       Control Theory/Dynamical Systems, Learning-based Control and Robotics. 
 
 content:
   - title: Education
