@@ -42,7 +42,8 @@ xing_username: yoelsheikh
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/pp.jpg
 about_content: | # this will include new lines to allow paragraphs
-       MSc Student interested in 3D Computer Vision, Deep Learning, Learning-based Control and Robotics. 
+       MSc Thesis: Reinforcement Learning on Sensor Data & Grid Maps @ the AG Robotersysteme, RPTU, lead by Prof. Karsten Berns. Interested in 3D Computer Vision,
+       Control Theory, Dynamical Systems, Learning-based Control and Robotics. 
 
 content:
   - title: Education
@@ -131,6 +132,15 @@ content:
   - title: Experience
     layout: list
     content:
+       - layout: right
+        title: Adam Riese GmbH, Stuttgart DE
+        sub_title: Working Student
+        caption: Nov 2022 - Sep 2023
+        link: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+              Deployment of an object-detection algorithm, including labling, Transfer Learning, training and evaluation of the algorithm as well as the pipeline
+              in which the algorithm is deployed (in ONNX-Runtime). 
       - layout: right
         title: Würth Industrie Service Gmbh & Co. KG, Bad Mergentheim DE
         sub_title: Intern
