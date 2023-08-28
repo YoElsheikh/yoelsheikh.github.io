@@ -42,8 +42,8 @@ xing_username: yoelsheikh
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/pp.jpg
 about_content: | # this will include new lines to allow paragraphs
-       MSc Thesis: Reinforcement Learning on Sensor Data & Grid Maps @ the AG Robotersysteme, RPTU, lead by Prof. Karsten Berns. Interested in 3D Computer Vision/Deep Learning,
-       Control Theory/Dynamical Systems, Learning-based Control and Robotics. 
+       MSc Thesis: Reinforcement Learning on Sensor Data & Grid Maps @ Prof. Karsten Berns' AG Robotersysteme, RPTU. Interested in 3D Computer Vision/Deep Learning,
+       Control Theory/Dynamical Systems, Learning-based Control/Deep Reinforcement Learning. 
 
 content:
   - title: Education
@@ -68,6 +68,27 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: YOLOv7-Cutter for Pet Detection 
+        link: https://github.com/YoElsheikh/realsense-python-ergeb
+        link_text: Link to HHV-Tool (the tool is live as of 28.08.2023)
+        additional_links:
+          - title:  https://www.adam-riese.de/hundehalter/antrag/start
+            #icon: fab fa-github
+            url: https://www.adam-riese.de/hundehalter/antrag/start
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+           # icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Pytorch | Tensorflow | Linux | Transfer Learning | Computer Vision | Docker | ONNX
+        description: | # this will include new lines to allow paragraphs
+          Migration from YOLOv3 + Keras runtime to YOLOv7 + ONNX runtime, modifying the pipeline for better performance. Training and detailed evaluation
+          and comparison between the 2 pipelines. Deployment.
+          *Accomplishments*: Labeled Training data, trained YOLOv7 and carried out a detailed evaluation to consolidate the increase of performance
+          (accuracy, precision & recall) beteween the old and new pipeline. The tool is staged, tested and live as of 28.08.2023 
+          
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -106,7 +127,7 @@ content:
         quote: >
           MATLAB | Control Theory | Optimal Control | Optimization | Modelling | Git
         description: | # this will include new lines to allow paragraphs
-          Application of the iterative linear quadratic regulator for path planning for a simple model of a mobile robot
+          Application of the iterative linear quadratic regulator for path tracking for a simple model of a mobile robot
           *Accomplishments*: Successfully applied the controller, which is the first of its kind in the chair for Electromobility at TU Kaiserslautern
           securing a 1,0.
       - layout: left
