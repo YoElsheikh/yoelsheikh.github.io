@@ -72,7 +72,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: YOLOv7-Cutter for Pet Detection 
-        link: https://github.com/YoElsheikh/realsense-python-ergeb
+        link: https://www.adam-riese.de/hundehalter/antrag/start
         link_text: Link to HHV-Tool (the tool is live as of 28.08.2023)
         additional_links:
           - title:  https://www.adam-riese.de/hundehalter/antrag/start
