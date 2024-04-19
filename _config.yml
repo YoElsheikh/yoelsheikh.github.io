@@ -162,6 +162,16 @@ content:
         description: | # this will include new lines to allow paragraphs
               Deployment of an object-detection algorithm, including labling, Transfer Learning, training and evaluation of the algorithm as well as the pipeline
               in which the algorithm is deployed (in ONNX-Runtime). 
+     - layout: right
+        title: IPG Automotive GmbH, Karlsruhe DE
+        sub_title: Working Student
+        caption: Dec 2023 - Now
+        link: https://www.ipg-automotive.com/en/
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+              Calculation and integration of simulation variables for V2X messages such as Collective Perception Message (CPM) according to European standards in CarMaker, 
+              using C code for variable calculation.
+              Responsible for extending and version controlling the V2X interface in collaboration with the development team.
       - layout: right
         title: Würth Industrie Service Gmbh & Co. KG, Bad Mergentheim DE
         sub_title: Intern
@@ -208,7 +218,7 @@ content:
               and "Hydraulics & Pneumatic Power Transmission". Coordination and supervision of tests together 
               with other managerial tasks in the mechanical engineering department    
      
-  - title: Skills
+  - title: Other
     layout: text
     content: | # this will include new lines to allow paragraphs
      **Skills** Simulation • Machine Learning • Reinforcement Learning • Computer Vision • Deep Learning • Autonomous Driving • Linux •
