@@ -208,11 +208,12 @@ content:
               and "Hydraulics & Pneumatic Power Transmission". Coordination and supervision of tests together 
               with other managerial tasks in the mechanical engineering department    
      
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-     **Skills** Linux/Bash • WSL/2 • Docker • C, C++ • Python (Anaconda, Pytorch, Tensorflow, Keras, Open3D, Pandas,
-       Numpy etc) • ROS/2 • OpenCV • CAD, einschließlich SolidWorks, MATLAB + Simulink • MS office, MS Visual Studio/VS Code and Latex.
+     **Skills** Simulation • Machine Learning • Reinforcement Learning • Computer Vision • Deep Learning • Autonomous Driving • Linux •
+     Unreal Engine • Docker • C/C++ • Python (Stable Baselines, conda, PyTorch, Tensorflow, Keras, Open3D, Pandas, NumPy) • Git •
+     ROS/2 • Finroc • OpenCV • CAD (SolidWorks, MATLAB + Simulink) • MS Office Suite • MS Visual Studio/VS Code • Research.
      **Languages**
      I Speak Arabic, English and German fluently. *Related language examinations*: DSH 2; from LMU München & TU Kaiserslautern, IELTS
       **Interests** I enjoy reading about astrophysics and philosophy and try to do cardio and some weightlifting regularely.
