@@ -102,8 +102,9 @@ content:
         link: https://github.com/YoElsheikh/realsense-python-ergeb
         link_text: Link to highlights
         additional_links:
-          - title:  github.com/YoElsheikh/realsense-python-ergeb
-            #icon: fab fa-github
+            
+          - title:  Githup page for the highlights
+            icon: fab fa-github
             url: https://github.com/YoElsheikh/realsense-python-ergeb
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
            # icon: fab fa-github
