@@ -99,10 +99,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: PoC of a 3D Computer Vision Pipeline Applied to a Logistics Robot Manipulator 
-        link: https://github.com/YoElsheikh/realsense-python-ergeb
-        # link_text: Link to highlights
         additional_links:
-            
           - title:  Githup page for the highlights
             icon: fab fa-github
             url: https://github.com/YoElsheikh/realsense-python-ergeb
@@ -122,15 +119,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: iterative LQR applied to Simple Robot Dynamics
-        # link: https://github.com/YoElsheikh/realsense-python-ergeb
-        #link_text: Link to highlights
         additional_links:
-          #- title:  github.com/YoElsheikh/realsense-python-ergeb
-            #icon: fab fa-github
-           # url: https://github.com/YoElsheikh/realsense-python-ergeb
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-           # icon: fab fa-github
-            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           MATLAB | Control Theory | Optimal Control | Optimization | Modelling | Git
         description: | # this will include new lines to allow paragraphs
@@ -141,15 +130,7 @@ content:
         border:   # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Genetic-Algorithm-based Optimal Control of the Inverted Pendulum System 
-        # link: https://github.com/YoElsheikh/realsense-python-ergeb
-        #link_text: Link to highlights
         additional_links:
-          #- title:  github.com/YoElsheikh/realsense-python-ergeb
-            #icon: fab fa-github
-           # url: https://github.com/YoElsheikh/realsense-python-ergeb
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-           # icon: fab fa-github
-            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
          Mathematical Modelling | MATLAB | Control Theory | Optimal Control | Optimization | Genetic Algorithm | IPS
         description: | # this will include new lines to allow paragraphs
