@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
        Unreal Engine for Simulation-in-the-Loop based training of RL agents to achieve meaningful sim2real transfer, where various frameworks, reward settings and observations are tuned. 
        My interests include 3D Computer Vision, Deep Learning, Control Theory/Dynamical Systems and Reinforcement Learning. 
 
-       [Download my resumé here](https://github.com/YoElsheikh/yoelsheikh.github.io/blob/master/_pdfs/resume.pdf)
+       [Download my resumé here](https://github.com/YoElsheikh/yoelsheikh.github.io/blob/master/_pdfs/resume.pdf){: .btn .btn--info .btn--large}
 
 content:
   - title: Education
