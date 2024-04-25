@@ -39,7 +39,7 @@ xing_username: yoelsheikh
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: 
 about_profile_image: /images/pp.jpg
 about_content: | # this will include new lines to allow paragraphs
        Hello! I am Yousif, a mechanical engineer at heart with a passion for robotics. My master's thesis at the Robotics Research Lab in the TU Kaiserslautern focused on leveraging
