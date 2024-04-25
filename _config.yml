@@ -42,8 +42,9 @@ xing_username: yoelsheikh
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/pp.jpg
 about_content: | # this will include new lines to allow paragraphs
-       MSc Thesis: Reinforcement Learning on Sensor Data & Reaction Grid Maps @ the AG Robotersysteme, RPTU. Interested in 3D Computer Vision/Deep Learning,
-       Control Theory/Dynamical Systems and Reinforcement Learning. 
+       Hello! I am Yousif, a mechanical engineer at heart with a passion for robotics. My master's thesis at the Robotics Research Lab in the TU Kaiserslautern focused on leveraring
+       Unreal Engine for Simulation-in-the-Loop based training of RL agents for meaningful sim2real transfer, where various frameworks, reward settings and observations are tuned. 
+       My interests include 3D Computer Vision, Deep Learning, Control Theory/Dynamical Systems and Reinforcement Learning. 
 
 content:
   - title: Education
@@ -54,7 +55,7 @@ content:
         sub_title: Master of Science in Vehicle Engineering 
         caption: 2019 - up to now
         quote: >
-         Thesis: Reinforcement Learning on Sensor Data and Reaction Grid Maps 
+         Thesis: Reinforcement Learning on Sensor Data and Reaction Grid Maps, AG Robotersysteme 
         description: | # this will include new lines to allow paragraphs
          Focus: Autonomous Mobile Robots, Embedded Intelligence, C++ Programming Project, Robot and Motion Control, Robust Control, Design of Human-Machine Systems, Seminar Electromobility
       - layout: top-right
