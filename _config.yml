@@ -100,7 +100,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: PoC of a 3D Computer Vision Pipeline Applied to a Logistics Robot Manipulator 
         link: https://github.com/YoElsheikh/realsense-python-ergeb
-        link_text: Link to highlights
+        # link_text: Link to highlights
         additional_links:
             
           - title:  Githup page for the highlights
