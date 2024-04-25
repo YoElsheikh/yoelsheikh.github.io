@@ -47,6 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
        My interests include 3D Computer Vision, Deep Learning, Control Theory/Dynamical Systems and Reinforcement Learning. 
 
        [Download my resumé here](https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/resume.pdf){: .btn .btn--info .btn--large}
+       [Download my resumé here](https://github.com/YoElsheikh/yoelsheikh.github.io/blob/master/_pdfs/resume.pdf){: .btn .btn--info style="font-size: 14px; padding: 6px 12px;"}
 
 content:
   - title: Education
