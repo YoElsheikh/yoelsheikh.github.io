@@ -163,7 +163,7 @@ content:
         description: | # this will include new lines to allow paragraphs
               Implementation of SIL-based V2X communicaiton such as Collective Perception Message (CPM) according to European standards in CarMaker, 
               using C-code for variable calculation.
-              Responsible for extending and version controlling the V2X interface in collaboration with the development team.
+              Responsible for extending and version control of the V2X interface in collaboration with the development team.
       - layout: right
         title: Adam Riese GmbH, Stuttgart DE
         sub_title: Working Student
