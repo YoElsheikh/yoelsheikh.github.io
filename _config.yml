@@ -160,8 +160,8 @@ content:
         link: www.ipg-automotive.com/en
         quote: >
         description: | # this will include new lines to allow paragraphs
-              Calculation and integration of simulation variables for V2X messages such as Collective Perception Message (CPM) according to European standards in CarMaker, 
-              using C code for variable calculation.
+              Implementation of SIL-based V2X communicaiton such as Collective Perception Message (CPM) according to European standards in CarMaker, 
+              using C-code for variable calculation.
               Responsible for extending and version controlling the V2X interface in collaboration with the development team.
       - layout: right
         title: Adam Riese GmbH, Stuttgart DE
@@ -191,11 +191,12 @@ content:
         link: uni-kl.de
         quote: >
         description: | # this will include new lines to allow paragraphs
-            **RRLab (Robotics Research Lab)**: Literature research, dataset generation (video/images), underwater object recognition, mosaicing, and mapping of the underwater environment (scene understanding) using
+            **RRLab (Robotics Research Lab)**: Literature research, dataset generation (video/images) and underwater object recognition. 
+              Research mosaicing, and mapping of the underwater environment (scene understanding) using
               FLS sonar data and deployment of image processing algorithms. Algorithm compilation
               within Finroc (a C++ based OOP framework from RRLab running Linux) accompanied by outdoor testing.   
              **Department of Mechanical and Process Engineering**: use of road features (from GPR sensor data) using GANs and CGANs to create subsurface
-              Road cracks according to type.
+              road cracks according to type.
       - layout: right
         title: Hi-Force Engineering Works, Khartoum SD 
         sub_title: Design Engineer 
