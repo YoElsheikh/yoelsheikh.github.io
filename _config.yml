@@ -37,6 +37,7 @@ xing_username: yoelsheikh
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
+# ###regular resume download button # [Download my resumé here](https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/resume.pdf){: .btn .btn--info .btn--large}
 
 # About Section
 about_title: Bio       
@@ -46,9 +47,8 @@ about_content: | # this will include new lines to allow paragraphs
        Unreal Engine for Simulation-in-the-Loop based training of RL agents to achieve meaningful sim2real transfer, where various frameworks, reward settings and observations are tuned. 
        My interests include 3D Computer Vision, Deep Learning, Control Theory/Dynamical Systems and Reinforcement Learning. 
 
-       # [Download my resumé here](https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/resume.pdf){: .btn .btn--info .btn--large}
-       [Download my English resumé here](https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/resume.pdf){: .btn .btn--info style="font-size: 14px; padding: 6px 12px;"}
-       [Download mein Lebenslauf hier](https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/lebenslauf.pdf){: .btn .btn--info style="font-size: 14px; padding: 6px 12px;"}
+       [Download my English résumé here](https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/resume.pdf){: .btn .btn--info style="font-size: 14px; padding: 6px 12px;"}
+       [German version](https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/lebenslauf.pdf){: .btn .btn--info style="font-size: 14px; padding: 6px 12px;"}
 
 content:
   - title: Education
