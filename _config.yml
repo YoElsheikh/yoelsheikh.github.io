@@ -51,10 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
        <mark>Résumé:</mark><br><br> 
        [English version](https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/resume.pdf){: .btn .btn--info style="font-size: 14px; padding: 6px 12px;"}
        [German version](https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/lebenslauf.pdf){: .btn .btn--info style="font-size: 14px; padding: 6px 12px;"}
-       [View Resume](/resume_viewer.html){: .btn .btn--info style="font-size: 14px; padding: 6px 12px;" target="_blank"}
        <a href="https://raw.githubusercontent.com/YoElsheikh/yoelsheikh.github.io/master/_pdfs/resume.pdf" target="_blank" title="View PDF">
-       <i class="fa fa-eye"></i> View PDF
+       <i class="fa fa-file-pdf-o"></i> View PDF
        </a>
+
        
 
 
