@@ -54,6 +54,8 @@ about_content: | # this will include new lines to allow paragraphs
        <a href="https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/resume.pdf" target="_blank" title="View PDF">
        <i class="fa fa-eye"></i> View PDF
        </a>
+       <a href="https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/resume.pdf" class="btn btn--info" style="font-size: 14px; padding: 6px 12px;" target="_blank">English version</a>
+
 
 
 content:
