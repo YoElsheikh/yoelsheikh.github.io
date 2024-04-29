@@ -48,11 +48,11 @@ about_content: | # this will include new lines to allow paragraphs
        My interests include 3D Computer Vision, Deep Learning, Control Theory/Dynamical Systems and Reinforcement Learning. 
 
        
-       <a href="https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/Lebenslauf.pdf" target="_blank" title="Download Résumé (German)">
+       <a href="https://raw.githubusercontent.com/YoElsheikh/yoelsheikh.github.io/master/_pdfs/lebenslauf.pdf" target="_blank" title="Download Résumé (German)">
        <i class="fa fa-file-pdf-o"></i> Download Résumé (German)
        </a>
        <span style="margin-right: 35px;"></span>
-       <a href="https://github.com/YoElsheikh/yoelsheikh.github.io/raw/master/_pdfs/resume.pdf" target="_blank" title="Download Résumé (English)">
+       <a href="https://raw.githubusercontent.com/YoElsheikh/yoelsheikh.github.io/master/_pdfs/resume.pdf" target="_blank" title="Download Résumé (English)">
        <i class="fa fa-file-pdf-o"></i> Download Résumé (English)
        </a>
 
