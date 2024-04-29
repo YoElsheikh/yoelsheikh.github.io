@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
        Unreal Engine for SIL (Simulation-in-the-Loop) based training of RL agents to achieve meaningful sim2real transfer, with high reusability. 
        My interests include 3D Computer Vision, Deep Learning, Control Theory/Dynamical Systems and Reinforcement Learning. 
 
-       Download Résumé: <span style="margin-right: 35px;"></span>
+       Download Résumé: <span style="margin-right: 20px;"></span>
        <a href="https://raw.githubusercontent.com/YoElsheikh/yoelsheikh.github.io/master/_pdfs/lebenslauf.pdf" target="_blank" title="in German">
        <i class="fa fa-file-pdf-o"></i> in German
        </a>
