@@ -110,7 +110,7 @@ content:
         title: PoC of a 3D Computer Vision Pipeline Applied to a Logistics Robot Manipulator 
         additional_links:
           - title:  Githup page for the highlights
-            icon: fab fa-github
+            icon: fab fa-github fa-lg
             url: https://github.com/YoElsheikh/realsense-python-ergeb
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
            # icon: fab fa-github
@@ -130,7 +130,7 @@ content:
         title: iterative LQR applied to Simple Robot Dynamics
         additional_links:
           - title:  arXiv link
-            icon: fa fa-file-pdf-o
+            icon: fa fa-file-pdf-o fa-lg
             url: https://arxiv.org/pdf/2404.18312
         quote: >
           MATLAB | Control Theory | Optimal Control | Optimization | Modelling | Git
