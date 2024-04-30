@@ -190,7 +190,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             **RRLab (Robotics Research Lab)**: Literature research, dataset generation (video/images) for underwater object recognition from Forward Looking Sonar data. 
               Research mosaicing, and mapping of the underwater environment and deployment of image processing algorithms. Experimantal verification of algorithms.   
-             **Department of Mechanical and Process Engineering**: use of road features (from GPR sensor data) leveraging GANs and CGANs to create subsurface
+             **Department of Mechanical and Process Engineering**: Use road features (from GPR sensor data) leveraging GANs and CGANs to create subsurface
               road cracks according to type.
       - layout: right
         title: Hi-Force Engineering Works, Khartoum SD 
