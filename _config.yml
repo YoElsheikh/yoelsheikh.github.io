@@ -130,7 +130,7 @@ content:
         title: iterative LQR applied to Simple Robot Dynamics
         additional_links:
           - title:  arXiv link
-            icon: fa fa-flask
+            icon: fa fa-file-pdf-o
             url: https://arxiv.org/pdf/2404.18312
         quote: >
           MATLAB | Control Theory | Optimal Control | Optimization | Modelling | Git
