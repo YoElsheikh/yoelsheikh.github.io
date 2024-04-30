@@ -46,7 +46,8 @@ about_content: | # this will include new lines to allow paragraphs
        Hello! I am Yousif, a mechanical engineer at heart with a passion for robotics. My master's thesis at the Robotics Research Lab focused on leveraging
        Unreal Engine for SIL (Simulation-in-the-Loop) based training of RL agents using various sensor modalities and reward tuning 
        with the aim of achieving meaningful sim2real transfer. The developed training scheme is highly reusable. 
-       My interests include 3D Computer Vision, Deep Learning, Control Theory/Dynamical Systems and Reinforcement Learning. 
+       My interests include 3D Computer Vision, Deep Learning, Control Theory/Dynamical Systems and Reinforcement Learning.
+       I enjoy long walks and ample coffee.
 
        Download resumé: <span style="margin-right: 20px;"></span>
        <a href="https://raw.githubusercontent.com/YoElsheikh/yoelsheikh.github.io/master/_pdfs/lebenslauf.pdf" target="_blank" title="in German">
