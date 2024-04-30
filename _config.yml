@@ -129,6 +129,9 @@ content:
                       # other value (or no value) means no border will be displayed
         title: iterative LQR applied to Simple Robot Dynamics
         additional_links:
+          - title:  arXiv link
+            icon: fab fa-flask
+            url: https://arxiv.org/pdf/2404.18312
         quote: >
           MATLAB | Control Theory | Optimal Control | Optimization | Modelling | Git
         description: | # this will include new lines to allow paragraphs
