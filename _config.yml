@@ -91,7 +91,7 @@ content:
         link_text: Link to HHV-Tool (the tool is live as of 28.08.2023)
         additional_links:
           - title:  https://www.adam-riese.de/hundehalter/antrag/start
-            #icon: fab fa-github
+            icon: fab fa-globe fa-lg
             url: https://www.adam-riese.de/hundehalter/antrag/start
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
            # icon: fab fa-github
@@ -110,7 +110,7 @@ content:
         title: PoC of a 3D Computer Vision Pipeline Applied to a Logistics Robot Manipulator 
         additional_links:
           - title:  Githup page for the highlights
-            icon: <span style="margin-right: 20px;"></span> fab fa-github fa-lg
+            icon: '<i class="fab fa-github fa-lg" style="margin-right: 10px;"></i>'
             url: https://github.com/YoElsheikh/realsense-python-ergeb
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
            # icon: fab fa-github
@@ -130,7 +130,7 @@ content:
         title: iterative LQR applied to Simple Robot Dynamics
         additional_links:
           - title:  arXiv link
-            icon: <span style="margin-right: 20px;"></span> fa fa-file-pdf-o fa-lg
+            icon: fa fa-file-pdf-o fa-lg 
             url: https://arxiv.org/pdf/2404.18312
         quote: >
           MATLAB | Control Theory | Optimal Control | Optimization | Modelling | Git
