@@ -44,7 +44,7 @@ about_title: Bio
 about_profile_image: /images/pp.jpg
 about_content: | # this will include new lines to allow paragraphs
        Hello! I am Yousif, a mechanical engineer at heart with a passion for robotics. My master's thesis at the Robotics Research Lab focused on leveraging
-       Unreal Engine to train RL agent using different modalities and reward formulations, with a consideration of framework reusability. 
+       Unreal Engine to train autonomous RL agents using different modalities and reward formulations, with a consideration of framework reusability. 
        My interests include 3D Computer Vision, Deep Learning, Control Theory/Dynamical Systems and Reinforcement Learning.
        I enjoy long walks and coffee breaks.
 
