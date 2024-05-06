@@ -71,7 +71,7 @@ content:
         sub_title: Master of Science in Vehicle Engineering 
         caption: 2023
         quote: >
-         Thesis: Reinforcement Learning on Sensor Data and Reaction Grid Maps, AG Robotersysteme 
+         Thesis: Reinforcement Learning on Sensor Data and Reaction Grid Maps, AG Robotersysteme (Grade: 1.3)
         description: | # this will include new lines to allow paragraphs
          Focus: Autonomous Mobile Robots, Embedded Intelligence, C++ Programming Project, Robot and Motion Control, Robust Control, Design of Human-Machine Systems, Seminar Electromobility
       - layout: top-right
@@ -79,7 +79,7 @@ content:
         sub_title: Bachelor of Science in Mechanical Engineering 
         caption: 2016
         quote: >
-          Thesis: Comparative Study between Conventional Controllers for the Inverted Pendulum Automobil 
+          Thesis: Comparative Study between Conventional Controllers for the Inverted Pendulum Automobil (Grade: A)
         description: | # this will include new lines to allow paragraphs        
   
   - title: Projects # Title for the section
