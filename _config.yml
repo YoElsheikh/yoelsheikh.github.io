@@ -70,7 +70,7 @@ content:
         sub_title: Master of Science in Vehicle Engineering 
         caption: 2023
         quote: >
-         Thesis: Reinforcement Learning on Sensor Data and Reaction Grid Maps, AG Robotersysteme (Grade: 1.3), [!code](https://github.com/YoElsheikh/ms-thesis-rrlab/tree/master)
+         Thesis: Reinforcement Learning on Sensor Data and Reaction Grid Maps, AG Robotersysteme (Grade: 1.3), [GitHub Repository](https://github.com/YoElsheikh/ms-thesis-rrlab/tree/master)
         description: | # this will include new lines to allow paragraphs
          Focus: Autonomous Mobile Robots, Embedded Intelligence, C++ Programming Project, Robot and Motion Control, Robust Control, Design of Human-Machine Systems, Seminar Electromobility
       - layout: top-right
