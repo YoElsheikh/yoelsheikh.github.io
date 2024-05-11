@@ -157,7 +157,7 @@ content:
     content:
       - layout: right
         title: IPG Automotive GmbH, Karlsruhe DE
-        sub_title: Working Student
+        sub_title: Simulation Backend Working Student
         caption: Dec 2023 - Now
         link: www.ipg-automotive.com/en
         quote: >
@@ -167,7 +167,7 @@ content:
               Responsible for extending and version control of the V2X interface in collaboration with the development team.
       - layout: right
         title: Adam Riese GmbH, Stuttgart DE
-        sub_title: Working Student
+        sub_title: Computer Vision Working Student
         caption: Nov 2022 - Sep 2023
         link: 
         quote: >
@@ -176,7 +176,7 @@ content:
               in which the algorithm is deployed (in ONNX-Runtime). 
       - layout: right
         title: Würth Industrie Service Gmbh & Co. KG, Bad Mergentheim DE
-        sub_title: Intern
+        sub_title: 3D Object Detection Intern
         caption: Mar 2022 - Sep 2022
         link: wuerth-industrie.com
         quote: >
